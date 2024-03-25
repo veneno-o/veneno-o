@@ -1,16 +1,35 @@
-# <a href="https://sunny-117.github.io/blog/getting-started.html">About me</a>
+<p align="center"><img width="100%" src="./assets/header.png" /></p>
 
-- 🧱 Work Experience：didi(2021) ✈️ bytedance(2022) ✈ baidu(2023-present)
-- 🚀 Frontend Adventures: https://sunny-117.github.io/blog/
-- 🚀 Mini-anything: https://sunny-117.github.io/mini-anything-docs/
-- 🗃️ rc-design: https://sunny-117.github.io/rc-design/
-- 📦️ Basic knowledge: https://sunny-117.github.io/
-- ✨  [juejin](https://juejin.cn/user/1381457252330183/columns)  [nowcoder](https://www.nowcoder.com/users/363848192)  <a href="https://space.bilibili.com/447694807" target="_blank">bilibili</a>
-- 💬 WeChat：**13077577302**，Welcome to communicate!
+### Hi there, I am Li Jianan👋
 
+> A Front end developer from **HangZhou, China**.
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=veneno-o&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-117&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+### 🏗️ Learning:
 
-![grid snake animation](./assets/github-user-contribution.svg)
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+### 📫 Reach me:
+
+- **QQ** : 574980606
+- **WeChat** : 19941208872
+- **Phone** : 19941208872
+- **E-mail** : 574980606@qq.com
+
+## 求职求职求职！杭州上海求内推！联系方式在上面 👆
+
+### 🏠 Blog:
+
+- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
+
+### 📊 Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)

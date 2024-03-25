@@ -1,7 +1,7 @@
 
 ### Hi there, I am Veneno👋
 
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
+<p align="center"><img width="100%" src="./assets/header.jpg" /></p>
 
 > A Front end developer from **HangZhou, China**.
 
@@ -11,22 +11,22 @@
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Golang-%23E0234E.svg?style=for-the-badge&logo=Golang&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/Golang-%23E0234E.svg?style=for-the-badge&logo=go&logoColor=white"/></code>
 
 
 ### 📫 Reach me:
 
 
 - 💬**WeChat** : veneno_copy
-- **E-mail** : 1929750203@qq.com
+- 🗃️**E-mail** : 1929750203@qq.com
 
 ## 求职求职求职！深圳求内推！联系方式在上面 👆
 
 ### 🏠 Blog:
 
-- **[https://juejin.cn/user/1381457252330183/posts](https://juejin.cn/user/782508010775198/posts)**
+- **[掘金](https://juejin.cn/user/782508010775198/posts)**
 
-- **[https://leetcode.cn/u/veneno-o/](https://leetcode.cn/u/veneno-o/)**
+- **[力扣](https://leetcode.cn/u/veneno-o/)**
 
 ### 📊 Stats:
 

@@ -32,7 +32,8 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=veneno-o&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![grid snake animation](./assets/github-user-contribution.svg)
 
-### 📈 Activity Graph:
+<!-- ### 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=veneno-o&theme=react-dark)](https://github.com/veneno/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=veneno-o&theme=react-dark)](https://github.com/veneno/github-readme-activity-graph) -->

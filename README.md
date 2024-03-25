@@ -14,20 +14,20 @@
 
 ### 📫 Reach me:
 
-- **QQ** : 574980606
-- **WeChat** : 19941208872
-- **Phone** : 19941208872
-- **E-mail** : 574980606@qq.com
+- **QQ** : 1929750203
+- **WeChat** : 13077577302
+- **Phone** : 13077577302
+- **E-mail** : 1929750203@qq.com
 
 ## 求职求职求职！杭州上海求内推！联系方式在上面 👆
 
 ### 🏠 Blog:
 
-- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
+- **[https://juejin.cn/user/1381457252330183/posts](https://juejin.cn/user/782508010775198/posts)**
 
 ### 📊 Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=veneno-o&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 📈 Activity Graph:

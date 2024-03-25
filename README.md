@@ -1,6 +1,6 @@
 <p align="center"><img width="100%" src="./assets/header.png" /></p>
 
-### Hi there, I am Li Jianan👋
+### Hi there, I am Veneno👋
 
 > A Front end developer from **HangZhou, China**.
 
@@ -25,6 +25,8 @@
 
 - **[https://juejin.cn/user/1381457252330183/posts](https://juejin.cn/user/782508010775198/posts)**
 
+- **[https://leetcode.cn/u/veneno-o/](https://leetcode.cn/u/veneno-o/)**
+
 ### 📊 Stats:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=veneno-o&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
@@ -32,4 +34,4 @@
 
 ### 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/veneno/github-readme-activity-graph)

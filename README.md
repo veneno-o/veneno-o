@@ -1,6 +1,7 @@
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
 
 ### Hi there, I am Veneno👋
+
+<p align="center"><img width="100%" src="./assets/header.png" /></p>
 
 > A Front end developer from **HangZhou, China**.
 
@@ -15,12 +16,11 @@
 
 ### 📫 Reach me:
 
-- **QQ** : 1929750203
-- **WeChat** : 13077577302
-- **Phone** : 13077577302
+
+- 💬**WeChat** : veneno_copy
 - **E-mail** : 1929750203@qq.com
 
-## 求职求职求职！杭州上海求内推！联系方式在上面 👆
+## 求职求职求职！深圳求内推！联系方式在上面 👆
 
 ### 🏠 Blog:
 
@@ -35,4 +35,4 @@
 
 ### 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/veneno/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=veneno-o&theme=react-dark)](https://github.com/veneno/github-readme-activity-graph)

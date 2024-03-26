@@ -24,9 +24,9 @@
 
 ### 🏠 Blog:
 
-- **[掘金](https://juejin.cn/user/1381457252330183/posts)**
+- ✨**[掘金](https://juejin.cn/user/1381457252330183/posts)**
 
-- **[力扣](https://leetcode.cn/u/veneno-o/)**
+- 🚀**[力扣](https://leetcode.cn/u/veneno-o/)**
 
 ### 📊 Stats:
 
